@@ -1,7 +1,16 @@
-## Hi there 👋
+## Hi, I'm Kathleen!
+I'm a senior at Loyola University Maryland, pursuing a double major in Accounting and Information Systems & Data Analytics. I recently completed an internship with EY as an audit intern working with government public sector clients, where I co-developed an AI workpaper automation tool. Moving forward, I have a strong interest in continuing to grow my coding skills and programming languages to further innovate within the accounting space.
 
-<!--
-**KathleenDav/KathleenDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Projects 
+
+## Skills
+- SQL (Certified)
+- Python
+- Excel
+- VITA/TCE Advanced Tax Preparer
+
+
 
 Here are some ideas to get you started:
 
