@@ -3,8 +3,7 @@ I'm a senior at Loyola University Maryland, pursuing a double major in Accountin
 
 
 ## Projects 
-- **[Recipe Box](https://github.com/KathleenDav/recipe-box-final)**: Full-stack recipe manager with a REST API (React, Node.js, Express, MongoDB), deployed on Vercel + Render · [Live demo](YOUR-LIVE-LINK)
-  
+- **[Recipe Box](https://github.com/KathleenDav/recipe-box-final)**: Full-stack recipe manager with a REST API (React, Node.js, Express, MongoDB), deployed on Vercel + Render 
 ## Skills
 **Languages:** Python, SQL, JavaScript, HTML
 **Frameworks & Tools:** React, Node.js, Express, MongoDB, Bootstrap, Vercel, Render
