@@ -1,4 +1,4 @@
-## Hi, I'm Kathleen!
+## Kathleen Davis
 I'm a senior at Loyola University Maryland, pursuing a double major in Accounting and Information Systems & Data Analytics. I recently completed an internship with EY as an audit intern working with Government & Public Sector clients, where I co-developed an AI workpaper automation tool.
 
 ## Projects 
