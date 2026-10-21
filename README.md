@@ -4,7 +4,7 @@ Double major in Accounting and Information Systems & Data Analytics focused on (
 ## About Me
 
 
-## Projects 
+## Featured Projects 
 - **[Recipe Box](https://github.com/KathleenDav/recipe-box-final)**: Full-stack recipe manager with a REST API (React, Node.js, Express, MongoDB), deployed on Vercel + Render 
 ## Skills
 **Languages:** Python, SQL, JavaScript, HTML
